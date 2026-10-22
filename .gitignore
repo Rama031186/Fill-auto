@@ -1,0 +1,12 @@
+node_modules/
+dist/
+server/*.sqlite3
+server/__pycache__/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
